@@ -110,6 +110,13 @@ Smart-Home-Light-Control/
 - LED connections
 ![Working demo](Images/Working_diagram.jpg)
 
+### Schematic Diagram
+![Schematic diagram](Schematic_Smart_Home_Light_Control_2026-07-04.png)
+
+---
+
+## Demonstration link:- https://drive.google.com/drive/folders/1RZ13e6LArltMSitLazJopOncqy5IGB75?usp=drive_link
+
 ---
 
 ##  Future Improvements
